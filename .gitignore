@@ -31,3 +31,8 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# Compiled assets
+public/assets/images/
+public/assets/scripts/
+public/assets/styles/
